@@ -18,7 +18,7 @@
 }
 
 .background-img{
-  background-image: linear-gradient(rgba(0,0,0,0.65),rgba(0,0,0,0.65)),url("../IMG/conference.png");
+  background-image: linear-gradient(rgba(0,0,0,0.65),rgba(0,0,0,0.65)),url("../IMG/conference.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
